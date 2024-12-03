@@ -2,3 +2,18 @@
     color: blue;
     font-size: 36px;
 }
+
+.odd{
+    background-color: lightcoral;
+    font-family: Verdana, DejuVu Sans, sans-serif;
+}
+
+.special{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
